@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Le Site</string>
-    <string name="loading">Chargement…</string>
-    <string name="error_loading">Erreur de chargement</string>
-    <string name="no_internet">Pas de connexion Internet</string>
-    <string name="retry">Réessayer</string>
-    <string name="website_url">http://192.168.11.1</string>
-</resources>
